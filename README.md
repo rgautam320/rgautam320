@@ -24,11 +24,11 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material UI](https://img.shields.io/badge/-Material UI-333333?style=flat&logo=materialui&logoColor=563D7C)
+  ![Material-UI](https://img.shields.io/badge/-Material-UI-333333?style=flat&logo=materialui&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
-  ![SQL Server](https://img.shields.io/badge/-SQL Server-333333?style=flat&logo=sqlserver)
+  ![PosgreSQL](https://img.shields.io/badge/-PosgreSQL-333333?style=flat&logo=posgresql)
+  ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
