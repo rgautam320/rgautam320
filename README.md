@@ -27,8 +27,8 @@
   ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=material-ui&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PosgreSQL](https://img.shields.io/badge/-PosgreSQL-333333?style=flat&logo=posgresql)
-  ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoft-sql-server)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
