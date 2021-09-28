@@ -56,11 +56,12 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.rajangautam.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-www.rajangautam.com.np-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.rajangautam.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-rajangautam.com.np-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.instagram.com/rgautam320"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rgautam320-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.facebook.com/rgautam320"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-rgautam320-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.twitter.com/rgautam320"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-rgautam320-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/rgautam320/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rgautam320-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.youtube.com/c/rgautam320/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-rgautam320-blue?style=flat-square&logo=youtube"></a>
 </p>
 
 ⭐️ From [Rajan Gautam](https://github.com/rgautam320)
