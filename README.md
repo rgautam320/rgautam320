@@ -42,7 +42,7 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Premiere Pro](https://img.shields.io/badge/-Premiere Pro-333333?style=flat&logo=adobe-premiere-pro)
+  ![Premiere Pro](https://img.shields.io/badge/-PremierePro-333333?style=flat&logo=adobe-premiere-pro)
 
 <br/>
 
