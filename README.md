@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img src="![Rajan Gautam](https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif)">
 
 <h2> Hey there! I'm Rajan Gautam.</h2>
 
