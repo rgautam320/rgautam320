@@ -24,7 +24,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=material&logoColor=563D7C)
+  ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=material-ui&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PosgreSQL](https://img.shields.io/badge/-PosgreSQL-333333?style=flat&logo=posgresql)
