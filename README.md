@@ -62,6 +62,7 @@
 <a href="https://www.twitter.com/rgautam320"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-rgautam320-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/rgautam320/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rgautam320-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.youtube.com/c/rgautam320/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-rgautam320-blue?style=flat-square&logo=youtube"></a>
+<a href="mailto:gautamrajan073@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gautamrajan073-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Rajan Gautam](https://github.com/rgautam320)
