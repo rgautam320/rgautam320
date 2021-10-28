@@ -43,10 +43,10 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Premiere Pro](https://img.shields.io/badge/-PremierePro-333333?style=flat&logo=adobe-premiere-pro)
-- 🖥 &nbsp;
-  ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=ms-word)
+- 📜 &nbsp;
+  ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
-  ![Powerpoint](https://img.shields.io/badge/-Powerpoint-333333?style=flat&logo=powerpoint)
+  ![Powerpoint](https://img.shields.io/badge/-Powerpoint-333333?style=flat&logo=microsoft-powerpoint)
 
 <br/>
 
