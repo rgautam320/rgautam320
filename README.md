@@ -52,8 +52,8 @@
 <br/>
 
 <a href="https://github.com/rgautam320">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgautam320&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgautam320&theme=buefy&layout=compact" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=rgautam320&theme=buefy&show_icons=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgautam320&theme=buefy&layout=compact" />
 </a>
 
 <br/>
