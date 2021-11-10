@@ -44,7 +44,6 @@
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
   ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=android-studio&logoColor=2C2255)
 - 🖥 &nbsp;
-- 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Premiere Pro](https://img.shields.io/badge/-PremierePro-333333?style=flat&logo=adobe-premiere-pro)
