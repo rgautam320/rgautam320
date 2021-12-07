@@ -51,7 +51,6 @@
   ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
   ![Powerpoint](https://img.shields.io/badge/-Powerpoint-333333?style=flat&logo=microsoft-powerpoint)
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
