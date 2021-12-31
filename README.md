@@ -4,7 +4,7 @@
  
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Pandit Deendayal Energy University.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Blockchain Technology and Cyber Security.
