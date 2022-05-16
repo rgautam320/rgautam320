@@ -25,7 +25,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=nodejs)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![DotNET](https://img.shields.io/badge/-DotNET-333333?style=flat&logo=dotnet)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
