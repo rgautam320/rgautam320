@@ -11,13 +11,15 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>  
 
-- 💻 &nbsp;
+<h4>- 💻 &nbsp; Languages</h4>
+
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+  
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
