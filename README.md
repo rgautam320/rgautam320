@@ -20,7 +20,7 @@
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
   
 - 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
