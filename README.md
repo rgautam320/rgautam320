@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Pandit Deendayal Energy University.
 - 💼 &nbsp; Working as a Full Stack Developer at Techdome Solutions Private Limited.
-- 🌱 &nbsp; Learning more about Microservices and Machine Learning.
+- 🌱 &nbsp; Learning more about Microservices, Blockchain (Web3.0) and Machine Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>  
 
@@ -18,6 +18,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
   
 - 🌐 &nbsp;
   ![HTML/CSS/SCSS](https://img.shields.io/badge/-HTML/CSS/SCSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
