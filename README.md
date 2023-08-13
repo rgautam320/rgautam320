@@ -45,6 +45,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure-devops)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![PGAdmin](https://img.shields.io/badge/-PGAdmin-333333?style=flat&logo=pgadmin)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   
 - 🔧 &nbsp;
