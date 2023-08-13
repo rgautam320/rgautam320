@@ -18,6 +18,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
   
 - 🌐 &nbsp;
