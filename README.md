@@ -57,7 +57,6 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Premiere Pro](https://img.shields.io/badge/-PremierePro-333333?style=flat&logo=adobe-premiere-pro)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   
 - 📜 &nbsp;
