@@ -22,7 +22,6 @@
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
   
 - 🌐 &nbsp;
-  ![HTML/CSS/SCSS](https://img.shields.io/badge/-HTML/CSS/SCSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React/React Native](https://img.shields.io/badge/-React/ReactNative-333333?style=flat&logo=react)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
