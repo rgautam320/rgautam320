@@ -28,6 +28,7 @@
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![DotNET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+  ![Laravel](https://img.shields.io/badge/-.Laravel-333333?style=flat&logo=laravel)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui&logoColor=563D7C)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
