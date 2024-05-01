@@ -7,7 +7,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
 - 🎓 &nbsp; Studied Computer Science and Engineering at Pandit Deendayal Energy University.
 - 💼 &nbsp; Working as a Software Developer.
-- 🌱 &nbsp; Learning more about Microservices, Blockchain (Web3.0) and Machine Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>  
 
