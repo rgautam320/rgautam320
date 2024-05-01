@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
-- 🎓 &nbsp; Studying Computer Science and Engineering at Pandit Deendayal Energy University.
-- 💼 &nbsp; Working as a Full Stack Developer at Techdome Solutions Private Limited.
+- 🎓 &nbsp; Studied Computer Science and Engineering at Pandit Deendayal Energy University.
+- 💼 &nbsp; Working as a Software Developer.
 - 🌱 &nbsp; Learning more about Microservices, Blockchain (Web3.0) and Machine Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>  
@@ -66,7 +66,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
 <p align="center">
-<a href="https://www.rajangautam.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-rajangautam.com.np-blue?style=flat-square&logo=google-chrome"></a>
+<!-- <a href="https://www.rajangautam.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-rajangautam.com.np-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.instagram.com/rgautam320"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rgautam320-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.facebook.com/rgautam320"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-rgautam320-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.twitter.com/rgautam320"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-rgautam320-blue?style=flat-square&logo=twitter"></a>
